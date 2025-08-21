@@ -48,7 +48,7 @@ export function schedulesShow({dailySchedules}) {
             }
         })
     } catch (error) {
-        console.error("Não foi possível exibir agendamentos.")
+        alert ("Não foi possível exibir agendamentos.")
         console.log(error)
     }
 }
