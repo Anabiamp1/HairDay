@@ -17,6 +17,6 @@ const dailySchedules = await scheduleFetchByDay({date})
 schedulesShow({ dailySchedules })
 
 //Renderiza as horas disponíveis.
-hoursLoad({date})
+hoursLoad({date, dailySchedules})
 
 }
