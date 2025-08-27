@@ -20,7 +20,7 @@ export function schedulesShow({dailySchedules}){
             
     item.setAttribute("data-id", schedule.id)
 
-    time.textContent = dayjs(schedule.date).format("HH:mm")
+    time.textContent = dayjs(schedule.when).format("HH:mm")
     name.textContent = schedule.name
 
     const cancelIcon = document.createElement("img")
