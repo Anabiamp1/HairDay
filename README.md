@@ -46,7 +46,7 @@ Certifique-se de ter o VS Code Studio instalado em sua máquina.
 1. Faça o Download ZIP clicando no botão CODE, aqui na página do projeto no canto superior direito. Isso vai baixar a pasta compactada do arquivo.
 2. Extraia a pasta para onde você desejar no seu computador (como na área de trabalho, por exemplo).
 3. Baixe as bibliotecas necessárias que o aplicativo irá solicitar
-4. No terminal rode "npm run server" e em seguida em uma nova aba do terminal "npm run dev" e prontinho ✨ você terá acesso.
+4. No terminal rode **"npm run server"** e em seguida em uma nova aba do terminal **"npm run dev"** e prontinho ✨ você terá acesso.
 
 </br>
 
